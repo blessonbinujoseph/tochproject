@@ -1,0 +1,44 @@
+
+
+
+
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-image:linear-gradient(to right top, #051937, #002164, #002691, #0024bc, #2c06e3);
+}
+
+#container
+{
+width: 400px;
+display:flex;
+justify-content:center;
+align-items: center;
+background-image:linear-gradient(to right top, #051937, #00466d, #007a9e, #00b1c2, #1ce9d7);
+height:200px;
+}
+button{
+    width: 50px;
+    height:50px;
+}
+button:hover{
+    cursor: pointer;
+}
+
+
+
+
+#purple_btn{
+background-color:purple;
+
+}
+#green_btn{
+    background-color:green;
+}
+#yellow_btn{
+    background-color:yellow;
+}
+ 
